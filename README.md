@@ -1,1 +1,1 @@
-# yt
+# YouTube-Transcript-to-Detailed-Notes-Converter_GoogleGemini

@@ -1,0 +1,22 @@
+-python -m venv myenv
+-cd myenv\Scripts\activate
+or - 
+conda create -p venv python==3.10 -y
+conda activate venv/
+
+-Generate Google API Key https://makersuite.google.com/app/apikey
+-create .env file and  write Google Gemini APIKEY here
+
+-app.py
+> pip install -r requirements.txt
+
+
+
+-Open .env file put code
+ GOOGLE_API_KEY="Paste your GOOGLE_APIKEY"
+
+> streamlit run app.py
+
+
+***Github link
+https://github.com/YogeshRaje/YouTube-Transcript-to-Detailed-Notes-Converter_GoogleGemini.git
